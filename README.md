@@ -50,7 +50,7 @@
    https://my-blog-app-testing.netlify.app/
 
 3. **Video Presentation:**
-   - Create a video showcasing the functionalities of the app.
+   [A video showcasing the functionalities of the app.](https://drive.google.com/file/d/14H1A4DZlqEIxf62uYrm-HbF00PL5PA5p/view?usp=drivesdk)https://drive.google.com/file/d/14H1A4DZlqEIxf62uYrm-HbF00PL5PA5p/view?usp=drivesdk
 
 
 
